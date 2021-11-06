@@ -1,5 +1,5 @@
 # driedsunshine
-<html>
+<html.index>
 <head>
 <tittle> my universe </tittle>
 </head>
